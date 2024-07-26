@@ -1,17 +1,16 @@
-In the past year I have been trying to set up a website to showcase my art work. I required a carousel for the same. The existing carousel components did not meet my requirements. So, I created one carousel component in React, and published it in npm.
+Hi, I am Praakhya!
+- I am interested in learning new concepts of old and up and coming technology.
+- I am currently working on some full stack projects.
 
-- NPM Page: https://www.npmjs.com/package/customizable-horizontal-carousel
-
-
-- My complete open-source contribution is in my GitHub repository here: https://github.com/praakhya
-
-
-- I also have a live website for my art coded in Angular and it is hosted here: https://lifeisasketch.avasthi.com/
-
-
-- My Linkedin profile: https://www.linkedin.com/in/praakhyaavasthi/
+In the past few years of my B.Tech. degree I have: -
+- 💻 Become proficient in python and fairly experienced in C, C++ and Java
+- 👩‍💻 Made two open source contributions on NPM
+- 🕸️ Worked on many web dev projects utilising Angular, React, Node, Express, or Spring Framework
+- 🤖 Started learning more about diffusion models and other generative AI
+- 🎨 A live website for my art coded in Angular with a Firebase backend and it is hosted here: https://lifeisasketch.avasthi.com/
 
 
+My Linkedin profile: https://www.linkedin.com/in/praakhyaavasthi/
 
 <!--
 **praakhya/praakhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
