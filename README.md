@@ -6,6 +6,9 @@
   <a href="https://substack.com/@praakhya" target="_blank">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
   </a>
+  <a href="https://www.npmjs.com/~parslee">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
 </p>
 
 - I am interested in learning new concepts of old and up and coming technology.
@@ -13,7 +16,7 @@
 
 ## In the past few years I have...
 - 💻 Become proficient in `Python` and fairly experienced in `C`, `C++` and `Java`
-- 👩‍💻 Made two open source contributions on `NPM`
+- 👩‍💻 Made open source contributions on `NPM`
 - 🕸️ Worked on many web dev projects utilising `Angular`, `React`, `Node`, `Express`, and `Spring Framework`
 - 🤖 Started learning more about diffusion models and other generative AI
 - 🎨 A live website for my art coded in `Angular` with a Firebase backend
