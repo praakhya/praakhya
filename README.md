@@ -23,8 +23,6 @@
 - 𝍌 Created a blogging website
 - 👩‍💻 Occasionally written about some interesting projects I have worked on and concepts I have learned
 
-My Linkedin profile: https://www.linkedin.com/in/praakhyaavasthi/
-
 <h2>Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
