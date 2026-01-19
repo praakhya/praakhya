@@ -12,11 +12,11 @@
 - I am currently working on some full stack projects.
 
 ## In the past few years I have...
-- 💻 Become proficient in python and fairly experienced in `C`, `C++` and `Java`
+- 💻 Become proficient in `Python` and fairly experienced in `C`, `C++` and `Java`
 - 👩‍💻 Made two open source contributions on `NPM`
 - 🕸️ Worked on many web dev projects utilising `Angular`, `React`, `Node`, `Express`, and `Spring Framework`
 - 🤖 Started learning more about diffusion models and other generative AI
-- 🎨 A live website for my art coded in Angular with a Firebase backend
+- 🎨 A live website for my art coded in `Angular` with a Firebase backend
 - 𝍌 Created a blogging website
 - 👩‍💻 Occasionally written about some interesting projects I have worked on and concepts I have learned
 
